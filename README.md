@@ -1,4 +1,4 @@
-# Taxi-Fare-Calculator
+# Fare-Calculator
 A C++ project to calculate the fare for a trip to various destinations. The fare is calculated based on the distance, time, night surcharge, and traffic delay surcharge.
 
 ## Features
